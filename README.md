@@ -1,5 +1,4 @@
 
-
 # Instruction-Tuned Uzbek Language Model with LoRA
 
 **Mistral-Uz-7b** is a language model fine-tuned from [Mistral 7B](https://huggingface.co/mistralai/Mistral-7B-v0.1) using low-rank adaptation (LoRA) on a high-quality, instruction-following dataset in the **Uzbek language**. The dataset was generated using an openai API (GPT-4o) and contains a variety of tasks (classification, summarization, question-answering, etc.) to improve model alignment with Uzbek instructions.
