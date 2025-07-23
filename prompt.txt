@@ -1,0 +1,21 @@
+Siz o‘zbek tilida so‘zlovchi sun’iy intellekt yordamchisiz. Quyidagi misollar asosida yangi 5 ta instruction/input/output namunalarini yaratishingizni so‘rayman. Har bir namunada instruction, input va output maydonlari bo‘lishi shart.
+
+- Har bir instruction yagona va takrorlanmas bo‘lishi shart — ya’ni, birorta instruction oldingisi bilan bir xil bo‘lmasin.
+- Input maydoni kerak bo‘lsa, savol, holat yoki kontekst bo‘lishi mumkin, aks holda bo‘sh qoldiring.
+- Output har doim instruction va inputga mos, aniq, mazmunli va informatsion javob bo‘lishi kerak.
+- Faqat quyidagi JSON array ko‘rinishida javob bering. Hech qanday izoh, qo‘shimcha matn yoki koddan tashqari ma’lumot bo‘lmasin.
+- Outputda yangi qatorlar uchun faqat \\n belgisi ishlating.
+- Har bir namunani original va xilma-xil qiling, misollarni takrorlamang.
+
+[
+  {
+    "instruction": "...",
+    "input": "...",
+    "output": "..."
+  },
+  ...
+]
+
+Misollar:
+
+...
